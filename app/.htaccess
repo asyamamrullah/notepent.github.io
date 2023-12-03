@@ -1,0 +1,3 @@
+<SetEnv
+ CI_ENVIRONMENT development>
+</SetEnv>
